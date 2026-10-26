@@ -124,15 +124,4 @@ Do not compare models using accuracy alone. The default class is a minority clas
 - This is an educational project, not a production credit-decision system.
 - A real lending model would require appropriate real-world validation, leakage review, fairness assessment, explainability, calibration, governance, privacy controls, and human oversight.
 
-## Resume project description
 
-Use this only after you can explain the SQL queries and Python code:
-
-**Bank Loan Portfolio Analysis & Default-Risk Modeling | SQL Server, Python, pandas, scikit-learn**
-- Analysed 1,200 synthetic loan records with SQL Server queries to compare default rates across customer and loan characteristics.
-- Built a Python data-analysis and classification workflow using pandas and scikit-learn, training Logistic Regression, Decision Tree, and Random Forest models.
-- Evaluated models using precision, recall, F1-score, ROC-AUC, and confusion matrices; documented data-quality checks and synthetic-data limitations.
-
-## Suggested repository description
-
-`SQL Server and Python project for synthetic loan portfolio analysis, exploratory data analysis, and educational default-risk modeling.`
